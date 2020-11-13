@@ -319,7 +319,7 @@ opencoreudkclone() {
 
 opencoreclone() {
   echo "Cloning OpenCorePkg Git repo..."
-  git clone -q https://github.com/acidanthera/OpenCorePkg.git
+  git clone -q https://github.com/THEDEVIOUS1/OpenCorePkg.git
 }
 
 ocbinarydataclone () {
